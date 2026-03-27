@@ -1,4 +1,4 @@
-# G-Site Invitational — Tournament Ops Module
+# G-Site Invitational — Tournament Module
 
 Welcome to my functional React-based tournament operational system, designed specifically as a paid recruitment task for the G-Site Developer Program. My primary goal was to focus on robust functional UI, bulletproof state operations, seamless data handling, and an exceptional user experience for Tournament Organizers (TOs).
 
