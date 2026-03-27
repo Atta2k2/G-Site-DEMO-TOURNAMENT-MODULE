@@ -101,5 +101,14 @@ While functional for 15 matches and ~40 teams, the current iteration has clear o
 3. **Database Normalization:** If moving to SQL, the data structure would require distinct tables (`Tournaments`, `Teams`, `Players`, `Matches`, `Scores`) to allow a team to participate in *multiple* tournaments simultaneously without data overlap.
 
 --- 
+
+## Disclaimer: UI vs. Core Functionality
+Please note that this application is a **functional prototype** built specifically for this recruitment task and is not representative of a polished, production-ready product. 
+
+For this demo, my explicit focus was on engineering complex state management, data handling architectures, strict validation rules (like duplicate placement detection), and robust administrator operational logic. The current user interface is rudimentary and was built rapidly strictly to demonstrate these backend and state functionalities. 
+
+In a true production environment, my work would involve thorough UX/UI design processes, extensive visual polish, refined micro-animations, comprehensive responsive breakpoints, and a significantly higher-fidelity layout that aligns with top-tier professional esports standards.
+
+--- 
 Thank you for assigning me this recruitment task! I look forward to walking you through my architectural decisions.
 *— Built for the G-Site Developer Program.*
