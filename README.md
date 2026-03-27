@@ -52,7 +52,7 @@ Instead of a chaotic data entry process, this system leverages a strict **Pendin
 | **Scoring Engine** | Completed | **[UPDATED]** Supports both **Placement Multipliers** and **Traditional Points**, dynamically calculating points on Leaderboard and Match History. |
 | **Leaderboard** | Completed | Reactive CSS Grid card layout. Auto-sorts by Total Score -> Total Kills -> Alphabetical. |
 | **Integrity Feature** | Completed | **[UPDATED]** Native "Match Lock/Unlock" toggle, strict "Approved Score" player locks, and a Global Score Reset button. |
-| **Visual Enhancements**| Completed | Clean esports aesthetic with highly engaging UI micro-interactions. |
+| **Visual Enhancements**| Completed | Clean esports aesthetic with highly engaging UI micro-interactions in the leaderboard section. |
 | **Written Task** | Completed | Explicit data structure and scalability rationale documented below. |
 
 ### "Wow Factor" Extras (Beyond Requirements)
